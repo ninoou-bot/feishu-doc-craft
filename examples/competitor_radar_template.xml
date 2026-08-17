@@ -1,0 +1,125 @@
+<title>【竞品战役解构】竞品上市传播排期与打法全景雷达看板模板</title>
+
+<callout emoji="🌟" background-color="light-yellow" border-color="yellow">
+  <p><b>【战役解构核心定锚】</b></p>
+  <p><b>解构标的：</b>[竞品车型/品牌]</p>
+  <p><b>传播主线：</b>高管IP矩阵深度下场 ➔ 用户全网征名共创 ➔ 核心大事件破圈引爆</p>
+  <p><b>打法特征：</b>三波次话题集中打透（预热共创 ➔ 品鉴预售 ➔ 上市爆发），三色动作卡片高频打点</p>
+</callout>
+
+<hr/>
+
+<h2>一、竞品营销战役全景雷达看板 (Canvas)</h2>
+
+<whiteboard type="svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 580" width="1260" height="580" style="background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;">
+  <rect x="10" y="10" width="1240" height="560" rx="14" fill="#F4F8FF" stroke="#BDD7FF" stroke-width="1.5"/>
+  
+  <text x="35" y="42" font-size="18" font-weight="bold" fill="#1F2329">【竞品解构】上市全周期传播节奏与官方话题矩阵雷达总图</text>
+  
+  <!-- 左侧导引胶囊 (单字绝对定位) -->
+  <rect x="35" y="160" width="50" height="370" rx="8" fill="#FFFFFF" stroke="#1F2329" stroke-width="1.5"/>
+  <rect x="40" y="168" width="40" height="20" rx="4" fill="#E6F7FF" stroke="#91D5FF" stroke-width="1"/>
+  <text x="60" y="182" font-size="10" fill="#096DD9" font-weight="bold" text-anchor="middle">车型</text>
+  <text x="60" y="270" font-size="15" font-weight="bold" fill="#1F2329" text-anchor="middle">标</text>
+  <text x="60" y="310" font-size="15" font-weight="bold" fill="#1F2329" text-anchor="middle">杆</text>
+  <text x="60" y="350" font-size="15" font-weight="bold" fill="#1F2329" text-anchor="middle">竞</text>
+  <text x="60" y="390" font-size="15" font-weight="bold" fill="#1F2329" text-anchor="middle">品</text>
+  <text x="60" y="430" font-size="15" font-weight="bold" fill="#1F2329" text-anchor="middle">A</text>
+
+  <!-- 顶部官方定调 (x=105..440) -->
+  <text x="105" y="78" font-size="15" font-weight="bold" fill="#1F2329">【官方定调】[旗舰定位 / 核心战略主线]</text>
+  <text x="105" y="105" font-size="12" fill="#595959"><b>定位核心：</b>立足核心客群，开辟全新细分价值高地</text>
+  <text x="105" y="130" font-size="12" fill="#595959"><b>战术机制：</b>高管个人 IP 深度参与 + 全网用户生态共创</text>
+
+  <!-- 顶部主时间轴 (x=480..1210) -->
+  <line x1="480" y1="125" x2="1210" y2="125" stroke="#1F2329" stroke-width="2"/>
+  <polygon points="1210,121 1220,125 1210,129" fill="#1F2329"/>
+  
+  <circle cx="530" cy="125" r="5" fill="#1F2329"/>
+  <text x="530" y="98" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">4月</text>
+  <text x="530" y="115" font-size="10" fill="#595959" text-anchor="middle">命名共创</text>
+
+  <circle cx="730" cy="125" r="5" fill="#1F2329"/>
+  <text x="730" y="98" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">5月-7月</text>
+  <text x="730" y="115" font-size="10" fill="#595959" text-anchor="middle">品鉴预售</text>
+
+  <circle cx="1060" cy="125" r="5" fill="#1F2329"/>
+  <text x="1060" y="98" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">8月</text>
+  <text x="1060" y="115" font-size="10" fill="#CF1322" font-weight="bold" text-anchor="middle">上市发布</text>
+
+  <!-- 中部话题矩阵大框群 -->
+  <rect x="105" y="160" width="280" height="145" rx="8" fill="#FFFFFF" stroke="#FFA39E" stroke-width="1.2"/>
+  <text x="245" y="185" font-size="12" font-weight="bold" fill="#CF1322" text-anchor="middle">传播话题：4月预热与征名</text>
+  <text x="245" y="215" font-size="11" font-weight="bold" fill="#CF1322" text-anchor="middle">#全网征名大事件#</text>
+  <text x="245" y="240" font-size="11" font-weight="bold" fill="#CF1322" text-anchor="middle">#高管回应网友造车#</text>
+  <text x="245" y="265" font-size="11" font-weight="bold" fill="#CF1322" text-anchor="middle">#首发概念车亮相#</text>
+
+  <rect x="400" y="160" width="415" height="145" rx="8" fill="#FFFFFF" stroke="#ADC6FF" stroke-width="1.2"/>
+  <text x="607" y="185" font-size="12" font-weight="bold" fill="#1D39C4" text-anchor="middle">传播话题：5-7月品鉴与预售</text>
+  <text x="607" y="215" font-size="11" font-weight="bold" fill="#1D39C4" text-anchor="middle">#高管亲测智驾首发#</text>
+  <text x="607" y="240" font-size="11" font-weight="bold" fill="#1D39C4" text-anchor="middle">#美学品鉴官全网热议#</text>
+  <text x="607" y="265" font-size="11" font-weight="bold" fill="#1D39C4" text-anchor="middle">#预售突破一万台大定#</text>
+
+  <rect x="830" y="160" width="395" height="145" rx="8" fill="#FFFFFF" stroke="#B7EB8F" stroke-width="1.2"/>
+  <text x="1027" y="185" font-size="12" font-weight="bold" fill="#389E0D" text-anchor="middle">传播话题：8月上市与引爆</text>
+  <text x="1027" y="215" font-size="11" font-weight="bold" fill="#389E0D" text-anchor="middle">#旗舰上市发布会直播#</text>
+  <text x="1027" y="240" font-size="11" font-weight="bold" fill="#389E0D" text-anchor="middle">#首批车主提车盛典#</text>
+  <text x="1027" y="265" font-size="11" font-weight="bold" fill="#389E0D" text-anchor="middle">#垂媒实测榜单第一#</text>
+
+  <!-- 底部动作卡片 (上排 y=325..397, 下排 y=412..490) -->
+  <!-- 阶段 1 卡片 (粉红) -->
+  <rect x="105" y="325" width="130" height="72" rx="4" fill="#FFF1F0" stroke="#FFA39E" stroke-width="1"/>
+  <text x="115" y="345" font-size="10" font-weight="bold" fill="#CF1322">4.12 首发亮相</text>
+  <text x="115" y="362" font-size="9" fill="#1F2329">外观设计图首发</text>
+  <text x="115" y="378" font-size="9" fill="#8C8C8C">全网讨论量破500万</text>
+
+  <rect x="250" y="325" width="135" height="72" rx="4" fill="#FFF1F0" stroke="#FFA39E" stroke-width="1"/>
+  <text x="260" y="345" font-size="10" font-weight="bold" fill="#CF1322">4.20 全网征名</text>
+  <text x="260" y="362" font-size="9" fill="#1F2329">高管微博发起互动</text>
+  <text x="260" y="378" font-size="9" fill="#8C8C8C">收集超2万车主建议</text>
+
+  <!-- 阶段 2 卡片 (浅蓝) -->
+  <rect x="400" y="325" width="125" height="72" rx="4" fill="#F0F5FF" stroke="#ADC6FF" stroke-width="1"/>
+  <text x="410" y="345" font-size="10" font-weight="bold" fill="#1D39C4">5.15 智驾首测</text>
+  <text x="410" y="362" font-size="9" fill="#1F2329">高管全程直播无接管</text>
+  <text x="410" y="378" font-size="9" fill="#8C8C8C">在线观看突破100万</text>
+
+  <rect x="540" y="325" width="130" height="72" rx="4" fill="#F0F5FF" stroke="#ADC6FF" stroke-width="1"/>
+  <text x="550" y="345" font-size="10" font-weight="bold" fill="#1D39C4">6.18 预售发布</text>
+  <text x="550" y="362" font-size="9" fill="#1F2329">公布预售权益矩阵</text>
+  <text x="550" y="378" font-size="9" fill="#8C8C8C">1小时预订超5000台</text>
+
+  <!-- 阶段 3 卡片 (浅绿) -->
+  <rect x="830" y="325" width="185" height="72" rx="4" fill="#F6FFED" stroke="#B7EB8F" stroke-width="1"/>
+  <text x="840" y="345" font-size="10" font-weight="bold" fill="#389E0D">8.10 正式上市发布会</text>
+  <text x="840" y="362" font-size="9" fill="#1F2329">全渠道联合直播爆破</text>
+  <text x="840" y="378" font-size="9" fill="#8C8C8C">全网总曝光突破 3.5 亿</text>
+
+  <rect x="1035" y="325" width="190" height="72" rx="4" fill="#F6FFED" stroke="#B7EB8F" stroke-width="1"/>
+  <text x="1045" y="345" font-size="10" font-weight="bold" fill="#389E0D">8.25 全国首批交付</text>
+  <text x="1045" y="362" font-size="9" fill="#1F2329">百城车主同步交付盛典</text>
+  <text x="1045" y="378" font-size="9" fill="#8C8C8C">首月锁单达成 12,000 台</text>
+
+  <!-- 底部时间主轴 (y=515) -->
+  <line x1="105" y1="515" x2="1210" y2="515" stroke="#1F2329" stroke-width="2"/>
+  <polygon points="1210,511 1220,515 1210,519" fill="#1F2329"/>
+  
+  <circle cx="200" cy="515" r="4" fill="#CF1322"/>
+  <text x="200" y="535" font-size="11" font-weight="bold" fill="#CF1322" text-anchor="middle">4月 · 预热</text>
+
+  <circle cx="600" cy="515" r="4" fill="#1D39C4"/>
+  <text x="600" y="535" font-size="11" font-weight="bold" fill="#1D39C4" text-anchor="middle">5月-7月 · 预售</text>
+
+  <circle cx="1030" cy="515" r="4" fill="#389E0D"/>
+  <text x="1030" y="535" font-size="11" font-weight="bold" fill="#389E0D" text-anchor="middle">8月 · 上市爆发</text>
+</svg>
+</whiteboard>
+
+<hr/>
+
+<callout emoji="🎯" background-color="light-green" border-color="green">
+  <p><b>【对标启示与本品反制策略】</b></p>
+  <p>① <b>高管声量截流</b>：针对竞品高管 IP 强绑定的特点，本品可通过技术专家与高管联合矩阵开展对标科普；</p>
+  <p>② <b>硬核场景突围</b>：竞品在舒适性营销较强，本品应聚焦动力操控与安全底盘硬核指标，实现差异化抢夺。</p>
+</callout>

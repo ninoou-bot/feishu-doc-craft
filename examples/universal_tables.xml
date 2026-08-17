@@ -1,0 +1,159 @@
+<!-- 模式 1：场景痛点与对标对决表 (Scenario PK Table) -->
+<table>
+  <colgroup><col width="28%"/><col width="36%"/><col width="36%"/></colgroup>
+  <thead>
+    <tr>
+      <th vertical-align="top"><p><b>细分场景痛点</b></p></th>
+      <th vertical-align="top"><p><b>本品场景匹配与卖点</b></p></th>
+      <th vertical-align="top"><p><b>竞品 A / 竞品 B 同场景应对</b></p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td vertical-align="top">
+        <p><b>[场景名称]</b></p>
+        <p>具象痛点描述（如全家长途出行颠簸易晕车、第三排空间局促）</p>
+      </td>
+      <td vertical-align="top">
+        <p><b>[核心系统/配置亮点]</b></p>
+        <p>硬核参数与场景收益（如电磁智能悬挂毫秒级滤震；第三排翻折魔术空间）</p>
+      </td>
+      <td vertical-align="top">
+        <p><b>竞品 A：</b>指出具体缺失（如无智能可变悬挂，颠簸感明显）</p>
+        <p><b>竞品 B：</b>指出参数弱项（如单阀配置，舒适性滤震不足）</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 模式 2：竞品投放预算与媒介拆解表 (Budget Allocation Table) -->
+<table>
+  <colgroup><col/><col/><col/><col/><col/><col/><col/></colgroup>
+  <thead>
+    <tr>
+      <th><p><b>车型/品牌</b></p></th>
+      <th><p><b>费用总计</b></p></th>
+      <th><p><b>抖音</b></p></th>
+      <th><p><b>微博</b></p></th>
+      <th><p><b>三垂平台</b></p></th>
+      <th><p><b>小红书</b></p></th>
+      <th><p><b>大资源/IP合作</b></p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td vertical-align="top"><p><b>标杆竞品 A</b></p></td>
+      <td vertical-align="top"><p><b>约 4,500 万</b><br/>(上市期 3 个月)</p></td>
+      <td vertical-align="top"><p>约 1,200 万</p></td>
+      <td vertical-align="top"><p>约 600 万</p></td>
+      <td vertical-align="top"><p>超 1,800 万</p></td>
+      <td vertical-align="top"><p>约 800 万</p></td>
+      <td vertical-align="top"><p>跨界顶级联名 IP</p></td>
+    </tr>
+    <tr>
+      <td vertical-align="top"><p><b>资源打法</b></p></td>
+      <td vertical-align="top"><p>全域整合投放</p></td>
+      <td vertical-align="top"><p>品牌广告+星图达人</p></td>
+      <td vertical-align="top"><p>热搜+商搜+高管品专</p></td>
+      <td vertical-align="top"><p>聚光+深度首测评测</p></td>
+      <td vertical-align="top"><p>KOC野生种草+信息流追投</p></td>
+      <td vertical-align="top"><p>首发大事件定制合作</p></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 模式 3：舆情口碑与 VOC 满意度对比表 (VOC Benchmark Table) -->
+<table>
+  <colgroup><col/><col/><col/><col/></colgroup>
+  <thead>
+    <tr>
+      <th><p><b>口碑指标 / 维度</b></p></th>
+      <th><p><b>本品</b></p></th>
+      <th><p><b>竞品 A</b></p></th>
+      <th><p><b>竞品 B</b></p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p><b>综合负面率</b></p></td>
+      <td><p><b>0.02%</b></p></td>
+      <td><p>1.34%</p></td>
+      <td><p>0.53%</p></td>
+    </tr>
+    <tr>
+      <td><p><b>正面满意点 TOP1</b></p></td>
+      <td><p><b>能耗与动力响应（235次）</b><br/>超长综合续航，低用车成本</p></td>
+      <td><p><b>空间宽敞（200次）</b><br/>二排航空座椅舒适度高</p></td>
+      <td><p><b>智能底盘（180次）</b><br/>湿滑路面循迹性优异</p></td>
+    </tr>
+    <tr>
+      <td><p><b>核心抱怨点 TOP1</b></p></td>
+      <td><p>智能座舱需持续 OTA 升级（45次）</p></td>
+      <td><p>内饰用料塑料感强、异味大（120次）</p></td>
+      <td><p>第三排座椅偏薄、长途较疲劳（88次）</p></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 模式 4：目标推移与进度达成表 (Progress Tracking Table) -->
+<table>
+  <colgroup><col/><col/><col/><col/><col/><col/><col/></colgroup>
+  <thead>
+    <tr>
+      <th><p><b>指标项目</b></p></th>
+      <th><p><b>M1</b></p></th>
+      <th><p><b>M2</b></p></th>
+      <th><p><b>M3</b></p></th>
+      <th><p><b>M4</b></p></th>
+      <th><p><b>M5</b></p></th>
+      <th><p><b>周期总计 / 均值</b></p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p><b>规划目标</b></p></td>
+      <td><p>1,200</p></td>
+      <td><p>1,600</p></td>
+      <td><p>1,000</p></td>
+      <td><p>1,300</p></td>
+      <td><p>1,500</p></td>
+      <td><p><b>目标均值: 1,320</b></p></td>
+    </tr>
+    <tr>
+      <td><p><b>实际达成</b></p></td>
+      <td><p>762</p></td>
+      <td><p>954</p></td>
+      <td><p>510</p></td>
+      <td><p>880</p></td>
+      <td><p>1,420</p></td>
+      <td><p><b>【实绩均值: 905】</b></p></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 模式 5：细分来源与购买归因表 (Customer Profiling Table) -->
+<table>
+  <colgroup><col/><col/><col/><col/></colgroup>
+  <thead>
+    <tr>
+      <th><p><b>客户换购/增购来源</b></p></th>
+      <th><p><b>核心竞品 1 基盘</b></p></th>
+      <th><p><b>核心竞品 2 基盘</b></p></th>
+      <th><p><b>本品保客基盘</b></p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p><b>用户占比</b></p></td>
+      <td><p><b>38%</b></p></td>
+      <td><p><b>23%</b></p></td>
+      <td><p><b>15%</b></p></td>
+    </tr>
+    <tr>
+      <td><p><b>核心购车动因 TOP3</b></p></td>
+      <td><p>TOP1 品牌可靠品质口碑<br/>TOP2 车身安全与结构用料<br/>TOP3 综合续航表现</p></td>
+      <td><p>TOP1 动力响应与油耗<br/>TOP2 空间灵活性<br/>TOP3 二手车保值率</p></td>
+      <td><p>TOP1 老车主长效信赖<br/>TOP2 升舱舒适配置<br/>TOP3 专属置换补贴权益</p></td>
+    </tr>
+  </tbody>
+</table>

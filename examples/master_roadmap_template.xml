@@ -1,0 +1,186 @@
+<title>【年度营销排期总图】品牌全周期整合营销规划排期总图模板</title>
+
+<callout emoji="🌟" background-color="light-yellow" border-color="yellow">
+  <p><b>【战略总纲：年度营销定调】</b></p>
+  <p><b>核心主题：</b>[年度传播核心主题]</p>
+  <p><b>核心目的：</b>【短线】打透核心心智标签，赋能全车系终端销售；【长线】支撑品牌价值向上升维。</p>
+  <p><b>量化 KPI：</b>全年品牌认知度提升至 <b>52%</b>（专项传播贡献净增 <b>+1.1%</b>）。</p>
+  <p><b>波次递进：</b><b>&lt;阶段① - 被看见&gt; 抢占第一心智</b> ➔ <b>&lt;阶段② - 被认同&gt; 深化圈层运营</b> ➔ <b>&lt;阶段③ - 被信赖&gt; 确立行业权威</b>。</p>
+</callout>
+
+<hr/>
+
+<h2>一、年度全周期整合营销规划全景看板 (Canvas)</h2>
+
+<p>以下飞书白板全景呈现营销主题、上市节奏与四大传播执行泳道：</p>
+
+<whiteboard type="svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 745" width="1280" height="745" style="background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;">
+  <rect x="10" y="10" width="1260" height="725" rx="14" fill="#F4F8FF" stroke="#BDD7FF" stroke-width="1.5"/>
+  
+  <text x="35" y="40" font-size="18" font-weight="bold" fill="#1F2329">HOW：年度营销规划全周期排期总图</text>
+  <g transform="translate(1140, 24)">
+    <rect x="0" y="0" width="105" height="26" rx="4" fill="#FFFFFF" stroke="#DEE0E3" stroke-width="1"/>
+    <text x="32" y="17" font-size="12" fill="#646A73">💬 画板内评论</text>
+  </g>
+
+  <!-- 顶部定调 -->
+  <rect x="35" y="55" width="230" height="48" rx="6" fill="#FFF7E6" stroke="#FFA940" stroke-width="1.2"/>
+  <text x="150" y="75" font-size="11" font-weight="bold" fill="#D46B08" text-anchor="middle">年度营销核心主题</text>
+  <text x="150" y="93" font-size="13" font-weight="bold" fill="#D46B08" text-anchor="middle">[核心营销主题]</text>
+
+  <rect x="275" y="55" width="465" height="48" rx="6" fill="#FFFFFF" stroke="#DEE0E3" stroke-width="1"/>
+  <text x="290" y="74" font-size="11" fill="#1F2329"><tspan font-weight="bold" fill="#096DD9">【短线目的】</tspan>打透心智标签，赋能核心产品销售转化</text>
+  <text x="290" y="93" font-size="11" fill="#1F2329"><tspan font-weight="bold" fill="#096DD9">【长线目的】</tspan>支撑品牌价值升维，带动全矩阵向上突围</text>
+
+  <rect x="750" y="55" width="495" height="48" rx="6" fill="#FFFFFF" stroke="#DEE0E3" stroke-width="1"/>
+  <text x="765" y="74" font-size="11" fill="#1F2329"><tspan font-weight="bold" fill="#389E0D">【核心 KPI】</tspan>全年品牌认知度 <b>46% ➔ 52%</b>（专项传播贡献 +1.1%）</text>
+  <text x="765" y="93" font-size="10" fill="#8C8C8C">建议于年中爆发期与年终车展开展两阶段调研确认</text>
+
+  <!-- 时间与产品节奏刻度 -->
+  <rect x="105" y="112" width="1140" height="54" rx="4" fill="#FFFFFF" stroke="#DEE0E3" stroke-width="1"/>
+  <text x="175" y="130" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">5月 (车展预热)</text>
+  <text x="175" y="146" font-size="9" fill="#8C8C8C" text-anchor="middle">年款上市 / 媒体首测</text>
+  <line x1="245" y1="112" x2="245" y2="166" stroke="#F0F0F0" stroke-width="1"/>
+
+  <text x="320" y="130" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">6月 (新品上市)</text>
+  <text x="320" y="146" font-size="9" fill="#096DD9" font-weight="bold" text-anchor="middle">旗舰产品上市爆发</text>
+  <line x1="395" y1="112" x2="395" y2="166" stroke="#F0F0F0" stroke-width="1"/>
+
+  <text x="465" y="130" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">7月</text>
+  <text x="465" y="146" font-size="9" fill="#8C8C8C" text-anchor="middle">圈层试驾开启</text>
+  <line x1="535" y1="112" x2="535" y2="166" stroke="#F0F0F0" stroke-width="1"/>
+
+  <text x="605" y="130" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">8月 (年中车展)</text>
+  <text x="605" y="146" font-size="9" fill="#8C8C8C" text-anchor="middle">车展声量破圈</text>
+  <line x1="675" y1="112" x2="675" y2="166" stroke="#F0F0F0" stroke-width="1"/>
+
+  <text x="745" y="130" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">9月</text>
+  <text x="745" y="146" font-size="9" fill="#8C8C8C" text-anchor="middle">改款车型发布</text>
+  <line x1="815" y1="112" x2="815" y2="166" stroke="#F0F0F0" stroke-width="1"/>
+
+  <text x="885" y="130" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">10月</text>
+  <text x="885" y="146" font-size="9" fill="#8C8C8C" text-anchor="middle">新品导入期</text>
+  <line x1="955" y1="112" x2="955" y2="166" stroke="#F0F0F0" stroke-width="1"/>
+
+  <text x="1025" y="130" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">11月 (年终车展)</text>
+  <text x="1025" y="146" font-size="9" fill="#389E0D" font-weight="bold" text-anchor="middle">混动新品上市</text>
+  <line x1="1095" y1="112" x2="1095" y2="166" stroke="#F0F0F0" stroke-width="1"/>
+
+  <text x="1165" y="130" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">12月 (收官复盘)</text>
+  <text x="1165" y="146" font-size="9" fill="#8C8C8C" text-anchor="middle">口碑沉淀与交付</text>
+
+  <!-- 中部三大阶段 -->
+  <rect x="105" y="175" width="290" height="55" rx="6" fill="#FFF1F0" stroke="#FFA39E" stroke-width="1.2"/>
+  <text x="250" y="196" font-size="12" font-weight="bold" fill="#CF1322" text-anchor="middle">&lt;阶段① - 被看见&gt; · 打透认知</text>
+  <text x="250" y="216" font-size="11" fill="#1F2329" text-anchor="middle">阶段目的：<tspan font-weight="bold" fill="#CF1322">高举高打，抢占第一心智</tspan></text>
+
+  <rect x="405" y="175" width="410" height="55" rx="6" fill="#F0F5FF" stroke="#ADC6FF" stroke-width="1.2"/>
+  <text x="610" y="196" font-size="12" font-weight="bold" fill="#1D39C4" text-anchor="middle">&lt;阶段② - 被认同&gt; · 深化运营</text>
+  <text x="610" y="216" font-size="11" fill="#1F2329" text-anchor="middle">阶段目的：<tspan font-weight="bold" fill="#1D39C4">场景渗透，做实用户口碑</tspan></text>
+
+  <rect x="825" y="175" width="420" height="55" rx="6" fill="#F6FFED" stroke="#B7EB8F" stroke-width="1.2"/>
+  <text x="1035" y="196" font-size="12" font-weight="bold" fill="#389E0D" text-anchor="middle">&lt;阶段③ - 被信赖&gt; · 确立权威</text>
+  <text x="1035" y="216" font-size="11" fill="#1F2329" text-anchor="middle">阶段目的：<tspan font-weight="bold" fill="#389E0D">权威加冕，筑牢行业护城河</tspan></text>
+
+  <!-- 底部泳道标签 -->
+  <rect x="35" y="238" width="60" height="150" rx="6" fill="#FFFFFF" stroke="#1F2329" stroke-width="1.2"/>
+  <rect x="43" y="246" width="44" height="18" rx="3" fill="#E6F7FF" stroke="#91D5FF" stroke-width="1"/>
+  <text x="65" y="259" font-size="9" fill="#096DD9" font-weight="bold" text-anchor="middle">主线一</text>
+  <text x="65" y="292" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">大</text>
+  <text x="65" y="316" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">事</text>
+  <text x="65" y="340" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">件</text>
+  <text x="65" y="364" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">线</text>
+
+  <rect x="35" y="396" width="60" height="120" rx="6" fill="#FFFFFF" stroke="#1F2329" stroke-width="1.2"/>
+  <rect x="43" y="404" width="44" height="18" rx="3" fill="#FFF0F6" stroke="#FFADD2" stroke-width="1"/>
+  <text x="65" y="417" font-size="9" fill="#C41D7F" font-weight="bold" text-anchor="middle">主线二</text>
+  <text x="65" y="442" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">圈</text>
+  <text x="65" y="464" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">层</text>
+  <text x="65" y="486" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">背</text>
+  <text x="65" y="508" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">书</text>
+
+  <rect x="35" y="524" width="60" height="86" rx="6" fill="#FFFFFF" stroke="#1F2329" stroke-width="1.2"/>
+  <rect x="43" y="531" width="44" height="18" rx="3" fill="#F9F0FF" stroke="#D3ADF7" stroke-width="1"/>
+  <text x="65" y="544" font-size="9" fill="#722ED1" font-weight="bold" text-anchor="middle">主线三</text>
+  <text x="65" y="566" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">用</text>
+  <text x="65" y="585" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">户</text>
+  <text x="65" y="604" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">共创</text>
+
+  <rect x="35" y="618" width="60" height="70" rx="6" fill="#FFFFFF" stroke="#1F2329" stroke-width="1.2"/>
+  <text x="65" y="644" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">日</text>
+  <text x="65" y="663" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">常</text>
+  <text x="65" y="681" font-size="12" font-weight="bold" fill="#1F2329" text-anchor="middle">线</text>
+
+  <!-- 泳道内容 -->
+  <!-- 泳道 1 -->
+  <rect x="105" y="238" width="290" height="70" rx="6" fill="#FFF1F0" stroke="#FFA39E" stroke-width="1.2"/>
+  <text x="120" y="258" font-size="12" font-weight="bold" fill="#CF1322">★ 品牌年度用户大会 / 上市发布会</text>
+  <text x="120" y="278" font-size="10" fill="#1F2329">• 权威嘉宾与车主代表站台，打造超级用户派对</text>
+  <text x="120" y="296" font-size="10" fill="#1F2329">• 官方定调发布，引爆全网声量与热搜话题</text>
+
+  <rect x="105" y="315" width="290" height="70" rx="6" fill="#FFF1F0" stroke="#FFA39E" stroke-width="1.2"/>
+  <text x="120" y="335" font-size="12" font-weight="bold" fill="#CF1322">长途场景化深度媒体试驾会</text>
+  <text x="120" y="355" font-size="10" fill="#1F2329">• 聚焦旗舰产品核心长途与舒适驾控场景</text>
+  <text x="120" y="373" font-size="10" fill="#1F2329">• 权威汽车垂媒与跨界 KOL 联合背书体验</text>
+
+  <rect x="405" y="238" width="410" height="147" rx="6" fill="#F0F5FF" stroke="#ADC6FF" stroke-width="1.2"/>
+  <text x="420" y="265" font-size="13" font-weight="bold" fill="#1D39C4">★ 举办产业发展高峰论坛与倡议发布</text>
+  <text x="420" y="295" font-size="11" fill="#1F2329">• 联动国家级行业协会、权威专家与产业链核心阵容</text>
+  <text x="420" y="320" font-size="11" fill="#1F2329">• 共同发起《行业发展倡议书》并宣布技术架构开源</text>
+  <text x="420" y="345" font-size="11" fill="#1F2329">• 确立品牌在行业端的绝对技术标准与主导权</text>
+
+  <rect x="825" y="238" width="205" height="147" rx="6" fill="#F6FFED" stroke="#B7EB8F" stroke-width="1.2"/>
+  <text x="835" y="265" font-size="12" font-weight="bold" fill="#389E0D">权威出行白皮书发布</text>
+  <text x="835" y="285" font-size="10" fill="#8C8C8C">(10-11月 车展前夕)</text>
+  <text x="835" y="310" font-size="10" fill="#1F2329">• 联合国家级智库调研痛点</text>
+  <text x="835" y="330" font-size="10" fill="#1F2329">• 树立行业黄金舒适与安全标准</text>
+  <text x="835" y="350" font-size="10" fill="#1F2329">• 夯实品牌智库权威地位</text>
+
+  <rect x="1040" y="238" width="205" height="147" rx="6" fill="#F6FFED" stroke="#B7EB8F" stroke-width="1.2"/>
+  <text x="1050" y="265" font-size="12" font-weight="bold" fill="#389E0D">全国品质巡回品鉴会</text>
+  <text x="1050" y="285" font-size="10" fill="#8C8C8C">(10-11月 混动新品期)</text>
+  <text x="1050" y="310" font-size="10" fill="#1F2329">• 双车全国重点城市深度试驾</text>
+  <text x="1050" y="330" font-size="10" fill="#1F2329">• 打造高品质家庭出行口碑</text>
+  <text x="1050" y="350" font-size="10" fill="#1F2329">• 赋能年末销售与保客转介</text>
+
+  <!-- 泳道 2 -->
+  <rect x="105" y="396" width="290" height="120" rx="6" fill="#FFF1F0" stroke="#FFA39E" stroke-width="1.2"/>
+  <text x="120" y="420" font-size="12" font-weight="bold" fill="#CF1322">【硬核跨界】国家级名人背书</text>
+  <text x="120" y="445" font-size="10" fill="#1F2329">• 携手国家级体育/硬核领域代表人物</text>
+  <text x="120" y="468" font-size="10" fill="#1F2329">• 以冠军品质背书底盘动力与安全性能</text>
+  <text x="120" y="491" font-size="10" fill="#1F2329">• 强化品牌技术标杆与硬核实力形象</text>
+
+  <rect x="405" y="396" width="410" height="120" rx="6" fill="#F0F5FF" stroke="#ADC6FF" stroke-width="1.2"/>
+  <text x="420" y="420" font-size="12" font-weight="bold" fill="#1D39C4">【美学人文】非遗与艺术跨界深度合作</text>
+  <text x="420" y="445" font-size="10" fill="#1F2329">• 结合假期出行场景，携手非遗传承人与知名艺术家</text>
+  <text x="420" y="468" font-size="10" fill="#1F2329">• 深度解读产品东方美学设计、内饰匠心用料与豪华质感</text>
+  <text x="420" y="491" font-size="10" fill="#1F2329">• 传递高品位出行文化与深厚精神认同</text>
+
+  <rect x="825" y="396" width="420" height="120" rx="6" fill="#F6FFED" stroke="#B7EB8F" stroke-width="1.2"/>
+  <text x="840" y="420" font-size="12" font-weight="bold" fill="#389E0D">【时代领军】商业与时代领袖深度对谈</text>
+  <text x="840" y="445" font-size="10" fill="#1F2329">• 联动知名商业领袖与创一代/二代领军人物</text>
+  <text x="840" y="468" font-size="10" fill="#1F2329">• 深化旗舰产品豪华公商务体面、舒适座舱与历史底蕴</text>
+  <text x="840" y="491" font-size="10" fill="#1F2329">• 夯实高端出行首选与旗舰地位</text>
+
+  <!-- 泳道 3 -->
+  <rect x="105" y="524" width="1140" height="86" rx="6" fill="#F9F0FF" stroke="#D3ADF7" stroke-width="1.2"/>
+  <text x="120" y="548" font-size="12" font-weight="bold" fill="#722ED1">★ 全年全域用户共创：「产品的一百种生活」系列传播</text>
+  <text x="120" y="572" font-size="11" fill="#1F2329">• <b>多车系全景覆盖</b>：邀请各矩阵车型真实车主参与共创</text>
+  <text x="120" y="594" font-size="11" fill="#1F2329">• <b>多圈层矩阵裂变</b>：打造户外自驾、创业奋斗等 100 种生活方式切片，构建最强口碑护城河</text>
+
+  <!-- 泳道 4 -->
+  <rect x="105" y="618" width="1140" height="70" rx="6" fill="#FAFAFA" stroke="#D9D9D9" stroke-width="1"/>
+  <text x="120" y="642" font-size="11" font-weight="bold" fill="#595959">日常长效基盘传播体系 (全年常态化运营)</text>
+  <text x="120" y="662" font-size="10" fill="#595959">• <b>品牌资产曝光</b>：全渠道统一专属 ICON 视觉符号，建立标准品牌认知</text>
+  <text x="120" y="678" font-size="10" fill="#595959">• <b>终端战报赋能</b>：发布细分市场周度/月度销量冠军海报，持续提振销售信心</text>
+</svg>
+</whiteboard>
+
+<hr/>
+
+<callout emoji="🎯" background-color="light-green" border-color="green">
+  <p><b>【落地执行建议】</b></p>
+  <p>① <b>以单车型为单位独立立项</b>：细化各阶段的媒体与达人投放资源配比；</p>
+  <p>② <b>增设阶段性认知度调研节点</b>：在年中爆发期与年终车展后开展专项认知度回访调研，及时校准传播节奏。</p>
+</callout>

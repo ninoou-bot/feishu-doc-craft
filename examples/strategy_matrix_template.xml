@@ -1,0 +1,91 @@
+<title>【课题诊断与策略推导】营销战略课题与落地施策矩阵模板</title>
+
+<h2>营销课题诊断与落地施策推导矩阵 (Strategy Matrix)</h2>
+
+<whiteboard type="svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" style="background:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;">
+  <rect x="10" y="10" width="1180" height="460" rx="12" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.5"/>
+  
+  <text x="35" y="45" font-size="18" font-weight="bold" fill="#0F172A">营销课题诊断与对策推导矩阵</text>
+
+  <!-- 4 栏列头 -->
+  <!-- 栏 1 -->
+  <rect x="35" y="65" width="260" height="38" rx="6" fill="#FEE2E2" stroke="#FCA5A5" stroke-width="1"/>
+  <text x="165" y="89" font-size="13" font-weight="bold" fill="#991B1B" text-anchor="middle">① 核心课题诊断 (Why)</text>
+
+  <!-- 栏 2 -->
+  <rect x="325" y="65" width="260" height="38" rx="6" fill="#FEF3C7" stroke="#FCD34D" stroke-width="1"/>
+  <text x="455" y="89" font-size="13" font-weight="bold" fill="#92400E" text-anchor="middle">② 破局策略定锚 (What)</text>
+
+  <!-- 栏 3 -->
+  <rect x="615" y="65" width="260" height="38" rx="6" fill="#DBEAFE" stroke="#93C5FD" stroke-width="1"/>
+  <text x="745" y="89" font-size="13" font-weight="bold" fill="#1E40AF" text-anchor="middle">③ 战役施策抓手 (How)</text>
+
+  <!-- 栏 4 -->
+  <rect x="905" y="65" width="260" height="38" rx="6" fill="#DCFCE7" stroke="#86EFAC" stroke-width="1"/>
+  <text x="1035" y="89" font-size="13" font-weight="bold" fill="#166534" text-anchor="middle">④ 预期成效与成果 (Payoff)</text>
+
+  <!-- 行 1：心智课题 -->
+  <rect x="35" y="115" width="260" height="95" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="45" y="140" font-size="12" font-weight="bold" fill="#0F172A">课题 1：品牌心智认知模糊</text>
+  <text x="45" y="165" font-size="11" fill="#64748B">• 用户知晓度高但核心标签不锐利</text>
+  <text x="45" y="185" font-size="11" fill="#64748B">• 竞品以智能化与冰箱彩电强占位</text>
+
+  <rect x="325" y="115" width="260" height="95" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="335" y="140" font-size="12" font-weight="bold" fill="#0F172A">策略 1：确立“技术世家”心智</text>
+  <text x="335" y="165" font-size="11" fill="#64748B">• 高举高打，绑定国家级行业峰会</text>
+  <text x="335" y="185" font-size="11" fill="#64748B">• 权威机构背书，筑牢技术标准</text>
+
+  <rect x="615" y="115" width="260" height="95" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="625" y="140" font-size="12" font-weight="bold" fill="#0F172A">施策 1：产业峰会 + 用户大会</text>
+  <text x="625" y="165" font-size="11" fill="#64748B">• 举办年度行业产业生态峰会</text>
+  <text x="625" y="185" font-size="11" fill="#64748B">• 打造万人规模超级车主派对</text>
+
+  <rect x="905" y="115" width="260" height="95" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="915" y="140" font-size="12" font-weight="bold" fill="#0F172A">成效 1：第一公信力确立</text>
+  <text x="915" y="165" font-size="11" fill="#64748B">• 全年品牌认知度提升至 52%</text>
+  <text x="915" y="185" font-size="11" fill="#64748B">• 稳居细分市场技术满意度第一</text>
+
+  <!-- 行 2：人群与场景课题 -->
+  <rect x="35" y="225" width="260" height="95" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="45" y="250" font-size="12" font-weight="bold" fill="#0F172A">课题 2：家庭圈层渗透不足</text>
+  <text x="45" y="275" font-size="11" fill="#64748B">• 公商务属性过强，家用认同弱</text>
+  <text x="45" y="295" font-size="11" fill="#64748B">• 缺乏家庭出行生活方式情感共鸣</text>
+
+  <rect x="325" y="225" width="260" height="95" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="335" y="250" font-size="12" font-weight="bold" fill="#0F172A">策略 2：场景化情感共振</text>
+  <text x="335" y="275" font-size="11" fill="#64748B">• 绑定暑期全家长途自驾场景</text>
+  <text x="335" y="295" font-size="11" fill="#64748B">• 跨界非遗文化与奥运冠军家庭</text>
+
+  <rect x="615" y="225" width="260" height="95" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="625" y="250" font-size="12" font-weight="bold" fill="#0F172A">施策 2：车主共创 + 跨界背书</text>
+  <text x="625" y="275" font-size="11" fill="#64748B">• 「产品的一百种生活」全域共创</text>
+  <text x="625" y="295" font-size="11" fill="#64748B">• 文化与体育世家名人代言传播</text>
+
+  <rect x="905" y="225" width="260" height="95" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="915" y="250" font-size="12" font-weight="bold" fill="#0F172A">成效 2：家庭客群占比突破</text>
+  <text x="915" y="275" font-size="11" fill="#64748B">• 私人家用客户占比提升至 65%</text>
+  <text x="915" y="295" font-size="11" fill="#64748B">• 终端老客转介率提升 20%</text>
+
+  <!-- 行 3：终端战败课题 -->
+  <rect x="35" y="335" width="260" height="95" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="45" y="360" font-size="12" font-weight="bold" fill="#0F172A">课题 3：终端战败与线索转化</text>
+  <text x="45" y="385" font-size="11" fill="#64748B">• 潜客在到店对比后易受竞品促销拦截</text>
+  <text x="45" y="405" font-size="11" fill="#64748B">• 终端一线缺乏直接对比硬核话术</text>
+
+  <rect x="325" y="335" width="260" height="95" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="335" y="360" font-size="12" font-weight="bold" fill="#0F172A">策略 3：终端工具与体验赋能</text>
+  <text x="335" y="385" font-size="11" fill="#64748B">• 提炼 3 大场景硬核 USP 痛点对决表</text>
+  <text x="335" y="405" font-size="11" fill="#64748B">• 强化深度试驾体验与置换补贴感知</text>
+
+  <rect x="615" y="335" width="260" height="95" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="625" y="360" font-size="12" font-weight="bold" fill="#0F172A">施策 3：全国巡回试驾 + 战报赋能</text>
+  <text x="625" y="385" font-size="11" fill="#64748B">• 智享世家长途场景试驾会</text>
+  <text x="625" y="405" font-size="11" fill="#64748B">• 周度/月度销量冠军战报高频推送</text>
+
+  <rect x="905" y="335" width="260" height="95" rx="6" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="915" y="360" font-size="12" font-weight="bold" fill="#0F172A">成效 3：战败率大幅下降</text>
+  <text x="915" y="385" font-size="11" fill="#64748B">• 竞品战败拦截率降低 15%</text>
+  <text x="915" y="405" font-size="11" fill="#64748B">• 月均销量稳定突破万台大关</text>
+</svg>
+</whiteboard>
