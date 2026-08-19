@@ -588,3 +588,95 @@ opencli lark-cli whiteboard +query \
 - [ ] 最终版本是否已执行 fetch + verify 确认无误？
 - [ ] 是否已创建本地 XML 里程碑存档？
 - [ ] 文档中引用的 `<whiteboard token>` 是否完全匹配？
+
+---
+
+## 阶段 6：飞书原生画板可视化图表制作规范 (Native Whiteboard SVG Charts)
+
+> **核心定位**：在飞书云文档（DocX）中，严禁直接使用 `<pre><code language="mermaid">` 展示柱状图/折线图（会被飞书前端当作纯文本代码块），**必须统一使用 `<whiteboard type="svg">` 容器直接嵌入标准矢量 SVG 图表**，实现零外部依赖、100% 矢量无损、极速加载与原生画板交互！
+
+---
+
+### 6.1 飞书原生图表场景选型决策树
+
+```mermaid
+graph TD
+    Data[输入分析数据与应用场景] --> Type{数据特征与表达目标}
+    
+    Type -->|品牌/车型规模排名与份额| C1["📊 降序色阶柱状图 (Bar Chart)<br/>• 纵轴销量/横轴品牌<br/>• 顶部双标签: 销量+市占率<br/>• 顶部独立区标注基准对标线"]
+    
+    Type -->|月度时序演变与淡旺季节奏| C2["📈 多品牌时序折线图 (Line Chart)<br/>• 横轴月份/纵轴销量<br/>• 头部品牌多色阶对比<br/>• 本品加粗+特殊标记点高亮"]
+    
+    Type -->|能源/细分市场结构占比| C3["🍩 结构环形饼图 (Donut Chart)<br/>• 环形切片+中心总数标注<br/>• 右侧独立图例与具体量级<br/>• 色谱语义清晰(绿纯电/蓝插混/灰燃油)"]
+    
+    Type -->|精准明细与对标汇总| C4["📋 格式化数据表格 (Table)<br/>• 带有千分位/百分比/色阶标签<br/>• 高亮合计行与本品对标行"]
+```
+
+---
+
+### 6.2 SVG 画板图表防重叠与安全布局黄金铁律 ❗
+
+为了确保图表在各种屏幕分辨率与飞书端内 100% 完整呈现且绝无重叠遮挡，必须严格遵守以下布局计算铁律：
+
+1. **基准对标线与图例必须置于顶部独立区（Header Legend Area）**：
+   - 严禁将基准对标文字框横盖在柱体或数据点上方；
+   - 顶部统一预留 `y=45~65` 作为独立图例与对标基准说明区（如 `广汽传祺基准: 1.48万 (1.04%)`）。
+2. **柱体与标签安全留白**：
+   - 柱子顶部数值标签 `y` 坐标必须与柱顶保持 **10~15px** 安全垂直间隙；
+   - 柱底品牌名称与市占率文字必须分行排列（`y` 间距 **18px**）；
+   - 柱子宽度建议设为 `45~50px`，柱间距保持 `25~30px`。
+3. **坐标轴与边框安全边距**：
+   - `viewBox="0 0 940 H"`，左侧 Y 轴文字预留 `x=68`，左轴线起于 `x=80`，右轴线止于 `x=900`（保留 40px 右侧呼吸感）。
+4. **折线图节点与图例**：
+   - 折线图顶部必须设置居中水平图例组（`transform="translate(..., 48)"`）；
+   - 本品折线采用加粗（`stroke-width="3"`）与醒目红（`#DC2626`），数据点带圆形标记。
+
+---
+
+### 6.3 标准图表 XML 模版速查
+
+#### 模版 A：降序柱状图（带顶部对标图例）
+```xml
+<whiteboard type="svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 430" width="100%" height="430">
+  <rect width="940" height="430" fill="#F8FAFC" stroke="#E2E8F0" rx="12"/>
+  <text x="470" y="32" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F497D">图表主标题 (单位: 万辆)</text>
+  
+  <!-- 顶部独立图例与对标基准 -->
+  <g transform="translate(260, 48)">
+    <rect x="0" y="2" width="14" height="14" fill="#0070C0" rx="2"/>
+    <text x="20" y="14" font-size="11" fill="#475569">TOP10 品牌月均</text>
+    <line x1="130" y1="9" x2="160" y2="9" stroke="#DC2626" stroke-width="2" stroke-dasharray="3 3"/>
+    <text x="168" y="13" font-size="11" font-weight="bold" fill="#DC2626">广汽传祺基准: 1.48万 (1.04%)</text>
+  </g>
+  
+  <!-- Y 轴网格与刻度... -->
+  <!-- 柱体与底部品牌标签... -->
+</svg>
+</whiteboard>
+```
+
+#### 模版 B：时序走势折线图
+```xml
+<whiteboard type="svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 380" width="100%" height="380">
+  <rect width="940" height="380" fill="#F8FAFC" stroke="#E2E8F0" rx="12"/>
+  <text x="470" y="32" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F497D">月度销量走势对比 (万辆)</text>
+  <!-- 顶部水平图例... -->
+  <!-- Y 轴刻度与 X 轴月份... -->
+  <!-- polyline 走势折线与本品高亮标记... -->
+</svg>
+</whiteboard>
+```
+
+#### 模版 C：能源结构环形饼图
+```xml
+<whiteboard type="svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 320" width="100%" height="320">
+  <rect width="940" height="320" fill="#F8FAFC" stroke="#E2E8F0" rx="12"/>
+  <text x="470" y="32" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F497D">能源类型份额占比</text>
+  <!-- 左侧 Donut Chart 环形切片 + 中心总数... -->
+  <!-- 右侧四项能源详细占比与量级清单... -->
+</svg>
+</whiteboard>
+```
